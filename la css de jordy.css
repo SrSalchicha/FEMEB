@@ -1,0 +1,127 @@
+#guapo{
+    color: olive;
+    background-color: paleturquoise;
+    border: red;
+    border-style: groove;
+    text-align: center;
+}
+
+#sub{
+    text-align: center;
+}
+
+#esta{
+   text-align: center;
+    border: olivedrab;
+    background-color: paleturquoise;
+    border-style: groove;
+}
+
+#menu{
+
+    text-align: center;
+    
+    
+}
+#con{
+    text-align: center;
+    border: olivedrab;
+    background-color: paleturquoise;
+    margin: 5%;
+    border-style: groove;
+}
+#h{
+    text-align: center;
+    border: olivedrab;
+    background-color: paleturquoise;
+    border-style: groove;
+}
+h5{
+   
+    border: olivedrab;
+    background-color: paleturquoise ; width: 13%;
+    border-style: groove;
+    background-position: initial;
+   
+} 
+#jujuy{
+    text-align: center;
+}
+#taco{
+    display: block;
+    text-align: center;
+    margin-left: 575px;
+}
+#ira{
+     text-align: left;
+    border: olivedrab;
+    background-color: paleturquoise ; width: 40%;
+    border-style: groove;
+    background-position: initial;
+}
+.taco{
+    
+    display: inline-block ;
+border-color: rebeccapurple;
+   background-color: gray;
+   border-style: dashed;
+   text-align: center;
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+   width: 23%;
+    }
+    .taco p{
+        text-align: center;
+       
+    }
+    .taco1{
+        text-align: center;
+        
+           background-color: gray;
+           border-style: double;         
+            padding: 4px;
+     margin: 5%;
+     
+    }
+ .taco1 h3{
+     text-align: center;
+    border: olivedrab;
+    background-color: paleturquoise;
+   
+    border-style: groove;
+    
+ }
+ .taco h2{
+     padding: 4px;
+     text-align: center;
+ }
+.hola{
+    
+    list-style-type: none;
+    text-align: center;
+  
+}
+.hola li{
+display: inline-block;
+    padding: 20px;
+}
+.chus{
+    
+    display: inline-block;
+    
+ 
+  
+  
+}
+.chus a{
+   
+    display: block;
+}
+#chakas{
+    display: inline-block;
+    vertical-align: top;
+}
+.chakita{
+    display: inline-block;
+}
