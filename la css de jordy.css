@@ -44,21 +44,16 @@ h5{
     background-position: initial;
    
 } 
+
 #jujuy{
     text-align: center;
 }
-#taco{
+#tacos{
     display: block;
     text-align: center;
     margin-left: 575px;
 }
-#ira{
-     text-align: left;
-    border: olivedrab;
-    background-color: paleturquoise ; width: 40%;
-    border-style: groove;
-    background-position: initial;
-}
+
 .taco{
     
     display: inline-block ;
@@ -94,9 +89,8 @@ border-color: rebeccapurple;
  }
  .taco h2{
      padding: 4px;
-     text-align: center;
- }
-.hola{
+     text-align: center;}
+  .hola{
     
     list-style-type: none;
     text-align: center;
@@ -130,7 +124,4 @@ display: inline-block;
 }
 .chakita{
     display: inline-block;
-}
-#tacos{
-    
 }
