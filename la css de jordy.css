@@ -114,6 +114,12 @@ display: inline-block;
   
   
 }
+.conejo{
+   text-align: center;
+   border-style: groove;
+  display: block;
+    background-color: grey ; margin: 5%;
+}
 .chus a{
    
     display: block;
@@ -124,4 +130,7 @@ display: inline-block;
 }
 .chakita{
     display: inline-block;
+}
+#tacos{
+    
 }
