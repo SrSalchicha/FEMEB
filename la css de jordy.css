@@ -36,14 +36,7 @@
     background-color: paleturquoise;
     border-style: groove;
 }
-h5{
-   
-    border: olivedrab;
-    background-color: paleturquoise ; width: 13%;
-    border-style: groove;
-    background-position: initial;
-   
-} 
+
 
 #jujuy{
     text-align: center;
@@ -94,7 +87,9 @@ border-color: rebeccapurple;
     
     list-style-type: none;
     text-align: center;
-  
+    background-color: burlywood;
+    border-color: rebeccapurple;
+    border-style: dashed;
 }
 .hola li{
 display: inline-block;
@@ -124,4 +119,15 @@ display: inline-block;
 }
 .chakita{
     display: inline-block;
+}
+.culo{
+    display: inline-block ;
+    border-color: rebeccapurple;
+       background-color: gray;
+       border-style: dashed;
+       text-align: center;
+       list-style-type: none;
+       padding: 0;
+       margin: 0;
+       width: 23%;
 }
