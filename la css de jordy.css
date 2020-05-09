@@ -125,3 +125,12 @@ display: inline-block;
 .chakita{
     display: inline-block;
 }
+
+#culo
+{
+    background-color: rgb(99, 216, 4);
+    border-style: double;         
+    padding: 4px;
+    margin: 5%;
+
+}
