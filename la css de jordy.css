@@ -128,9 +128,15 @@ HEAD
        border-style: dashed;
        text-align: center;
        list-style-type: none;
-       padding: 0;
+       padding: 5;
        margin: 0;
        width: 23%;
 
-
+}
+#culo
+{
+    background-color: rgb(99, 216, 4);
+    border-style: double;         
+    padding: 4px;
+    margin: 5%;
 }
