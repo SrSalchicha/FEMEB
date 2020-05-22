@@ -1,0 +1,26 @@
+#platziu
+{
+    background-color: rgb(99, 216, 4);
+    border-style: double;         
+    padding: 4px;
+    margin: 5%;
+}
+
+#glosari
+{
+    background-color: tomato;
+    border-style: double;         
+    padding: 4px;
+    margin: 5%;
+}
+#Subtitulo
+{
+   text-align: center;
+}
+
+.pagina
+{
+   display: inline-block;
+   /*  redes sociales  */
+}
+   

@@ -1,12 +1,12 @@
-#guapo{
-    color: olive;
-    background-color: paleturquoise;
-    border: red;
+#Titulo{
+    color:turquoise;
+    background-color: gray;
+    border: blueviolet;
     border-style: groove;
     text-align: center;
 }
 
-#sub{
+#Subtitulo{
     text-align: center;
 }
 
@@ -17,19 +17,6 @@
     border-style: groove;
 }
 
-#menu{
-
-    text-align: center;
-    
-    
-}
-#con{
-    text-align: center;
-    border: olivedrab;
-    background-color: paleturquoise;
-    margin: 5%;
-    border-style: groove;
-}
 #h{
     text-align: center;
     border: olivedrab;
@@ -38,17 +25,7 @@
 }
 
 
-#jujuy{
-    text-align: center;
-}
-#tacos{
-    display: block;
-    text-align: center;
-    margin-left: 575px;
-}
-
-.taco{
-    
+.Soporte{
    display: inline-block ;
    border-color: rebeccapurple;
    background-color: gray;
@@ -59,60 +36,26 @@
    margin: 0;
    width: 23%;
     }
-    .taco p{
-        text-align: center;
-       
-    }
-    .taco1{
-        text-align: center;
-        
-           background-color: gray;
-           border-style: double;         
-            padding: 4px;
-     margin: 5%;
-     
-    }
- .taco1 h3{
-     text-align: center;
-    border: olivedrab;
-    background-color: paleturquoise;
-   
-    border-style: groove;
+
     
- }
- .taco h2{
-     padding: 4px;
-     text-align: center;}
-  .hola{
-    
-    list-style-type: none;
+
+.V-M{
     text-align: center;
-    background-color: burlywood;
-    border-color: rebeccapurple;
-    border-style: dashed;
-}
-.hola li{
-display: inline-block;
-    padding: 20px;
-}
-.chus{
-    
+    background-color: gray;
+    border-style: double;         
+    padding: 4px;
+    margin: 5%;
+    /*  Mision Vision  */
+    }
+
+.pagina{
     display: inline-block;
+    /*  redes sociales  */
+       }
     
- 
-  
-  
-}
-.conejo{
-   text-align: center;
-   border-style: groove;
-  display: block;
-    background-color: grey ; margin: 5%;
-}
-.chus a{
-   
-    display: block;
-}
+
+
+
 #chakas{
     display: inline-block;
     vertical-align: top;
@@ -120,30 +63,15 @@ display: inline-block;
 .chakita{
     display: inline-block;
 }
-HEAD
-.culo{
-    display: inline-block ;
-    border-color: rebeccapurple;
-       background-color: gray;
-       border-style: dashed;
-       text-align: center;
-       list-style-type: none;
-       padding: 5;
-       margin: 0;
-       width: 23%;
 
-}
-#culo
+
+
+
+.vinculo
 {
-    background-color: rgb(99, 216, 4);
-    border-style: double;         
-    padding: 4px;
-    margin: 5%;
-}
-#lovek
-{
-    background-color: tomato;
-    border-style: double;         
-    padding: 4px;
-    margin: 5%;
+    list-style-type: none;
+    text-align: center;
+    background-color: burlywood;
+    border-color: rebeccapurple;
+    border-style: dashed;
 }

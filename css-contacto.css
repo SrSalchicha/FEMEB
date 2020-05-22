@@ -1,0 +1,104 @@
+#margench
+{
+    text-align: center;
+    border: olivedrab;
+    background-color: paleturquoise;
+    margin: 5%;
+    border-style: groove;
+}
+.correos
+{ 
+    list-style-type: none;
+    text-align: center;
+    background-color: burlywood;
+    border-color: rebeccapurple;
+    border-style: dashed;
+}
+
+.correos li
+{
+    display: inline-block;
+        padding: 20px;
+}
+
+#guatzap
+{
+        border-color: darkgreen  ;
+        background-color: rgb(0, 180, 235);
+        border-style: groove;
+        text-align: center;
+        list-style-type: none;
+  
+}
+
+
+.chakita{
+    display: inline-block;
+    padding: 20px;
+    
+}
+
+/* estilo del boton */
+.dropbtn {
+  background-color: rgb(0, 102, 85);
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* el contenedor <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* links dentro */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* cambiar el color de fondo links */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* color del boton */
+.dropdown:hover .dropbtn {
+  background-color: #00975d;
+}
+
+.formulario{
+    text-align: center;
+    border-style: groove;
+    display: block;
+    background-color: rgb(19, 217, 243); 
+    margin: 5%;
+ }
+ #Subtitulo
+ {
+    text-align: center;
+ }
+
+ .pagina{
+    display: inline-block;
+    /*  redes sociales  */
+       }
+    
