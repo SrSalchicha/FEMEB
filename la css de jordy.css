@@ -49,8 +49,8 @@
 
 .taco{
     
-    display: inline-block ;
-border-color: rebeccapurple;
+   display: inline-block ;
+   border-color: rebeccapurple;
    background-color: gray;
    border-style: dashed;
    text-align: center;
