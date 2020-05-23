@@ -1,4 +1,30 @@
-.pagina{
+.pagina
+{
     display: inline-block;
     /*  redes sociales  */
-       }
+}
+
+#Titulo{
+    color:turquoise;
+    background-color: gray;
+    border: blueviolet;
+    border-style: groove;
+    text-align: center;
+}
+
+.subtitulito
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.BL
+{
+    font-family: Arial;
+    color: aliceblue;
+}
+#derechita
+{
+    color:white;
+}
+#Subtitulo{
+    text-align: center;
+}
